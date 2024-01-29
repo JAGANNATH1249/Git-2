@@ -1,0 +1,7 @@
+user 1 
+username = jagannath
+pwd = 12345
+
+user 2 
+username = rahul
+pwd = 1293
